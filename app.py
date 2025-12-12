@@ -40,3 +40,4 @@ def predict():
     return str(model.predict(input_data)[0])
 
 app.run()
+#this is a comment
